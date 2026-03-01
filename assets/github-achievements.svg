@@ -1,0 +1,28 @@
+﻿<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A1734"/>
+      <stop offset="1" stop-color="#1B428E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="170" rx="18" fill="url(#bg)"/>
+  <text x="36" y="34" fill="#DAE6FF" font-family="Consolas, monospace" font-size="18">BAŞARI PANELİ</text>
+
+  <rect x="36" y="48" width="255" height="92" rx="12" fill="#0E2553" stroke="#7EA5FF"/>
+  <rect x="320" y="48" width="255" height="92" rx="12" fill="#0E2553" stroke="#7EA5FF"/>
+  <rect x="604" y="48" width="255" height="92" rx="12" fill="#0E2553" stroke="#7EA5FF"/>
+  <rect x="888" y="48" width="275" height="92" rx="12" fill="#0E2553" stroke="#7EA5FF"/>
+
+  <text x="62" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Temiz Kod</text>
+  <text x="62" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Bakımı kolay yapı</text>
+
+  <text x="346" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Performans</text>
+  <text x="346" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Hızlı ve verimli çözümler</text>
+
+  <text x="630" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Süreklilik</text>
+  <text x="630" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Düzenli geliştirme akışı</text>
+
+  <text x="914" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Gece Mavisi Tema</text>
+  <text x="914" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Özel profil tasarımı</text>
+</svg>

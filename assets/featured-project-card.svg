@@ -1,0 +1,37 @@
+﻿<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A1734"/>
+      <stop offset="1" stop-color="#1A3E8A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="90" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7AA2FF"/>
+      <stop offset="1" stop-color="#C6D6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="210" rx="18" fill="url(#bg)"/>
+
+  <rect x="52" y="45" width="300" height="120" rx="14" fill="#0D2350" stroke="#6F97FF"/>
+  <text x="76" y="88" fill="#E5EDFF" font-family="Consolas, monospace" font-size="24">PulsePilot</text>
+  <text x="76" y="116" fill="#AFC4FF" font-family="Consolas, monospace" font-size="18">Automation Studio</text>
+  <text x="76" y="145" fill="#7FA4FF" font-family="Consolas, monospace" font-size="14">Python • Scheduler • Tasks</text>
+
+  <rect x="420" y="45" width="330" height="48" rx="10" fill="#102B5F" stroke="#7DA4FF"/>
+  <rect x="420" y="117" width="330" height="48" rx="10" fill="#102B5F" stroke="#7DA4FF"/>
+
+  <text x="444" y="74" fill="#DCE7FF" font-family="Consolas, monospace" font-size="14">Zamanlanmış görev çalıştırma</text>
+  <text x="444" y="146" fill="#DCE7FF" font-family="Consolas, monospace" font-size="14">URL kontrol • Yedekleme • Temizlik</text>
+
+  <line x1="360" y1="105" x2="420" y2="105" stroke="url(#line)" stroke-width="3"/>
+  <line x1="750" y1="105" x2="1020" y2="105" stroke="url(#line)" stroke-width="3"/>
+
+  <rect x="1020" y="78" width="130" height="54" rx="27" fill="#E3ECFF"/>
+  <text x="1055" y="111" fill="#12306D" font-family="Consolas, monospace" font-size="20">GitHub</text>
+
+  <circle cx="390" cy="105" r="6" fill="#C5D6FF">
+    <animate attributeName="cx" values="360;420;360" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="52" y="30" fill="#AFC4FF" font-family="Consolas, monospace" font-size="14">ÖNE ÇIKAN REPO KARTI</text>
+</svg>

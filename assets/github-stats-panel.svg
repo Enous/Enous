@@ -1,0 +1,31 @@
+﻿<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081328"/>
+      <stop offset="1" stop-color="#143774"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+
+  <text x="42" y="38" fill="#DCE7FF" font-family="Consolas, monospace" font-size="20">GITHUB İSTATİSTİK PANELİ</text>
+
+  <rect x="42" y="58" width="350" height="140" rx="14" fill="#0E2451" stroke="#7EA5FF"/>
+  <rect x="426" y="58" width="350" height="140" rx="14" fill="#0E2451" stroke="#7EA5FF"/>
+  <rect x="810" y="58" width="350" height="140" rx="14" fill="#0E2451" stroke="#7EA5FF"/>
+
+  <text x="72" y="95" fill="#AFC4FF" font-family="Consolas, monospace" font-size="15">PROFİL</text>
+  <text x="72" y="140" fill="#E6EEFF" font-family="Consolas, monospace" font-size="30">Enous</text>
+  <text x="72" y="172" fill="#94B2FF" font-family="Consolas, monospace" font-size="14">GitHub kullanıcı profili</text>
+
+  <text x="456" y="95" fill="#AFC4FF" font-family="Consolas, monospace" font-size="15">TEMEL ALANLAR</text>
+  <text x="456" y="130" fill="#E6EEFF" font-family="Consolas, monospace" font-size="16">Python • JavaScript • TypeScript</text>
+  <text x="456" y="160" fill="#E6EEFF" font-family="Consolas, monospace" font-size="16">React • Node.js • Tailwind</text>
+
+  <text x="840" y="95" fill="#AFC4FF" font-family="Consolas, monospace" font-size="15">AKIŞ</text>
+  <text x="840" y="130" fill="#E6EEFF" font-family="Consolas, monospace" font-size="16">Planla → Geliştir → Test Et</text>
+  <text x="840" y="160" fill="#E6EEFF" font-family="Consolas, monospace" font-size="16">Yayınla → İzle → İyileştir</text>
+
+  <circle cx="1120" cy="36" r="5" fill="#D2DEFF">
+    <animate attributeName="cy" values="36;48;36" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

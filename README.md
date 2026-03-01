@@ -30,7 +30,7 @@
 ## Öne Çıkan Proje
 <div align="center">
   <a href="https://github.com/Enous/pulsepilot-automation-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enous&repo=pulsepilot-automation-studio&theme=nightowl&hide_border=true" alt="PulsePilot Automation Studio" />
+    <img src="assets/featured-project-card.svg" width="100%" alt="PulsePilot Automation Studio kartı" />
   </a>
 </div>
 
@@ -47,8 +47,7 @@ python main.py --config configs/sample.plan.json --once
 
 ## GitHub İstatistikleri
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Enous&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub istatistikleri" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enous&layout=compact&theme=nightowl&hide_border=true" alt="En çok kullanılan diller" />
+  <img src="assets/github-stats-panel.svg" width="100%" alt="GitHub istatistik paneli" />
 </div>
 
 <div align="center">
@@ -56,7 +55,7 @@ python main.py --config configs/sample.plan.json --once
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Enous&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub kupaları" />
+  <img src="assets/github-achievements.svg" width="100%" alt="GitHub başarı paneli" />
 </div>
 
 ## Aktivite Grafiği
