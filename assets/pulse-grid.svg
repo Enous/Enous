@@ -1,0 +1,42 @@
+﻿<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#001018"/>
+      <stop offset="1" stop-color="#082f3f"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="95" x2="1200" y2="95" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00C9FF"/>
+      <stop offset="1" stop-color="#92FE9D"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#3BD5FF" stroke-opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="190" fill="url(#bg)"/>
+  <rect width="1200" height="190" fill="url(#grid)"/>
+
+  <path stroke="url(#wave)" stroke-width="3" fill="none">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 118 C140 72, 290 164, 430 118 C570 72, 720 164, 860 118 C1000 72, 1130 164, 1200 118;
+              M0 92 C140 146, 290 54, 430 92 C570 146, 720 54, 860 92 C1000 146, 1130 54, 1200 92;
+              M0 118 C140 72, 290 164, 430 118 C570 72, 720 164, 860 118 C1000 72, 1130 164, 1200 118"/>
+  </path>
+
+  <circle cx="90" cy="50" r="5" fill="#00C9FF">
+    <animate attributeName="cy" values="50;130;50" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="600" cy="135" r="6" fill="#92FE9D">
+    <animate attributeName="cy" values="135;55;135" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1110" cy="60" r="5" fill="#00E4FF">
+    <animate attributeName="cy" values="60;140;60" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="36" y="42" fill="#9DEFFF" font-family="Consolas, monospace" font-size="20">NEON PULSE GRID</text>
+</svg>
