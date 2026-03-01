@@ -1,13 +1,13 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A1633,50:102A5E,100:1D3F8F&text=Enous&fontColor=EAF2FF&fontSize=74&animation=fadeIn&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%7C%20Gece%20Mavisi%20Tema&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A1633,50:102A5E,100:1D3F8F&text=Enous&fontColor=EAF2FF&fontSize=74&animation=fadeIn&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%7C%20%C3%9Creten%20ve%20Geli%C5%9Ftiren&descAlignY=58" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2FF&center=true&vCenter=true&width=920&lines=Merhaba%2C+ben+Enous!;Temiz%2C+h%C4%B1zl%C4%B1+ve+yarat%C4%B1c%C4%B1+projeler+geli%C5%9Ftiriyorum.;Web+ve+yaz%C4%B1l%C4%B1m+projeleri+%C3%BCretiyorum.;Her+g%C3%BCn+bir+ad%C4%B1m+daha+ileri." alt="Yazı animasyonu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2FF&center=true&vCenter=true&width=940&lines=Merhaba%2C+ben+Enous!;Temiz%2C+h%C4%B1zl%C4%B1+ve+yarat%C4%B1c%C4%B1+projeler+geli%C5%9Ftiriyorum.;Fikirden+%C3%BCr%C3%BCne+uzanan+ak%C4%B1%C5%9Flar+kuruyorum.;Her+g%C3%BCn+bir+ad%C4%B1m+daha+ileri." alt="Yazı animasyonu" />
 </div>
 
 <div align="center">
-  <img src="assets/night-hero.svg" width="100%" alt="Gece mavisi profil animasyonu" />
+  <img src="assets/night-hero.svg" width="100%" alt="Profil giriş animasyonu" />
 </div>
 
 <p align="center">
@@ -18,13 +18,19 @@
 
 ## Hakkımda
 - Temiz mimari, güçlü performans ve sürdürülebilir kod odaklı çalışıyorum.
-- Web, yazılım ve ürün deneyimi tarafında modern projeler geliştiriyorum.
-- Yeni teknolojileri düzenli olarak öğrenip projelerime uyguluyorum.
+- Web ve yazılım projelerinde modern, okunabilir ve üretim kalitesinde işler çıkarıyorum.
+- Öğrenme hızımı gerçek projeler ve otomasyonlarla sürekli canlı tutuyorum.
 
-## Canlı Animasyon Paneli
+## Vitrin Panelleri
 <div align="center">
-  <img src="assets/pulse-grid.svg" width="100%" alt="Gece mavisi pulse grid animasyonu" />
+  <img src="assets/pulse-grid.svg" width="100%" alt="Pulse grid animasyonu" />
+  <img src="assets/focus-radar.svg" width="100%" alt="Odak radar animasyonu" />
   <img src="assets/automation-flow.svg" width="100%" alt="Proje akış animasyonu" />
+</div>
+
+## Üretim Akışı
+<div align="center">
+  <img src="assets/idea-to-prod.svg" width="100%" alt="Fikirden ürüne akış" />
 </div>
 
 ## Öne Çıkan Proje
@@ -45,7 +51,7 @@ python main.py --config configs/sample.plan.json --once
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,git,github,vscode,figma" alt="Teknoloji ikonları" />
 </p>
 
-## GitHub İstatistikleri
+## İstatistik ve Ritm
 <div align="center">
   <img src="assets/github-stats-panel.svg" width="100%" alt="GitHub istatistik paneli" />
 </div>

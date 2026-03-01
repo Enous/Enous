@@ -15,14 +15,18 @@
   <rect x="888" y="48" width="275" height="92" rx="12" fill="#0E2553" stroke="#7EA5FF"/>
 
   <text x="62" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Temiz Kod</text>
-  <text x="62" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Bakımı kolay yapı</text>
+  <text x="62" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Bakımı kolay ve okunabilir yapı</text>
 
   <text x="346" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Performans</text>
   <text x="346" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Hızlı ve verimli çözümler</text>
 
   <text x="630" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Süreklilik</text>
-  <text x="630" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Düzenli geliştirme akışı</text>
+  <text x="630" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Düzenli geliştirme ritmi</text>
 
-  <text x="914" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Gece Mavisi Tema</text>
-  <text x="914" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Özel profil tasarımı</text>
+  <text x="914" y="84" fill="#E8EEFF" font-family="Consolas, monospace" font-size="16">Topluluk</text>
+  <text x="914" y="112" fill="#AFC4FF" font-family="Consolas, monospace" font-size="13">Paylaşım ve katkı odaklı yaklaşım</text>
+
+  <circle cx="1140" cy="30" r="4" fill="#D2DEFF">
+    <animate attributeName="cy" values="30;42;30" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
 </svg>

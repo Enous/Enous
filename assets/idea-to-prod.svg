@@ -1,0 +1,34 @@
+﻿<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A1733"/>
+      <stop offset="1" stop-color="#1E458F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7EA5FF"/>
+      <stop offset="1" stop-color="#CEDCFF"/>
+    </linearGradient>
+    <path id="route" d="M140 116 C300 60, 430 150, 610 108 C770 70, 910 142, 1060 92"/>
+  </defs>
+
+  <rect width="1200" height="180" rx="16" fill="url(#bg)"/>
+  <text x="36" y="34" fill="#DCE7FF" font-family="Consolas, monospace" font-size="18">FİKİRDEN ÜRÜNE AKIŞ</text>
+
+  <path d="M140 116 C300 60, 430 150, 610 108 C770 70, 910 142, 1060 92" stroke="url(#line)" stroke-width="3" fill="none"/>
+
+  <circle r="6" fill="#E8EFFF">
+    <animateMotion dur="5.2s" repeatCount="indefinite">
+      <mpath xlink:href="#route"/>
+    </animateMotion>
+  </circle>
+
+  <circle cx="140" cy="116" r="6" fill="#9FBCFF"/>
+  <circle cx="410" cy="126" r="6" fill="#9FBCFF"/>
+  <circle cx="700" cy="95" r="6" fill="#9FBCFF"/>
+  <circle cx="1060" cy="92" r="6" fill="#9FBCFF"/>
+
+  <text x="122" y="144" fill="#B9CCFF" font-family="Consolas, monospace" font-size="13">Fikir</text>
+  <text x="385" y="154" fill="#B9CCFF" font-family="Consolas, monospace" font-size="13">Geliştirme</text>
+  <text x="678" y="123" fill="#B9CCFF" font-family="Consolas, monospace" font-size="13">Test</text>
+  <text x="1031" y="120" fill="#B9CCFF" font-family="Consolas, monospace" font-size="13">Yayın</text>
+</svg>
