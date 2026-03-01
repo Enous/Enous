@@ -1,0 +1,44 @@
+﻿<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07142D"/>
+      <stop offset="0.6" stop-color="#102A5E"/>
+      <stop offset="1" stop-color="#1D3F8F"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="120" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7AA2FF"/>
+      <stop offset="1" stop-color="#C2D2FF"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#9DB6FF" stroke-opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+
+  <path stroke="url(#wave)" stroke-width="3.5" fill="none">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 155 C180 90, 300 220, 510 155 C720 90, 900 220, 1200 155;
+              M0 120 C180 185, 300 55, 510 120 C720 185, 900 55, 1200 120;
+              M0 155 C180 90, 300 220, 510 155 C720 90, 900 220, 1200 155"/>
+  </path>
+
+  <circle cx="130" cy="70" r="5" fill="#A6BDFF">
+    <animate attributeName="cy" values="70;180;70" dur="4.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="4.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="610" cy="182" r="6" fill="#C7D7FF">
+    <animate attributeName="cy" values="182;72;182" dur="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1090" cy="86" r="5" fill="#8EABFF">
+    <animate attributeName="cy" values="86;190;86" dur="4.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="40" y="44" fill="#DCE7FF" font-family="Consolas, monospace" font-size="20">GECE MAVİSİ PROFİL PANELİ</text>
+  <text x="40" y="214" fill="#9AB4FF" font-family="Consolas, monospace" font-size="14">ENOUS • CREATIVE CODING • BLUE NIGHT MODE</text>
+</svg>

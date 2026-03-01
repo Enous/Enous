@@ -1,12 +1,12 @@
 ﻿<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#050B14"/>
-      <stop offset="1" stop-color="#102537"/>
+      <stop offset="0" stop-color="#09142A"/>
+      <stop offset="1" stop-color="#1B3F8F"/>
     </linearGradient>
     <linearGradient id="line" x1="90" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00C9FF"/>
-      <stop offset="1" stop-color="#92FE9D"/>
+      <stop offset="0" stop-color="#7AA2FF"/>
+      <stop offset="1" stop-color="#C7D7FF"/>
     </linearGradient>
 
     <path id="lane1" d="M120 72H1080"/>
@@ -15,15 +15,15 @@
 
   <rect width="1200" height="220" fill="url(#bg2)"/>
 
-  <rect x="70" y="42" width="180" height="58" rx="12" stroke="#00C9FF" fill="#041825"/>
-  <rect x="320" y="42" width="180" height="58" rx="12" stroke="#00D8E8" fill="#041825"/>
-  <rect x="570" y="42" width="180" height="58" rx="12" stroke="#2EE7C3" fill="#041825"/>
-  <rect x="820" y="42" width="180" height="58" rx="12" stroke="#92FE9D" fill="#041825"/>
+  <rect x="70" y="42" width="180" height="58" rx="12" stroke="#7AA2FF" fill="#0A1E45"/>
+  <rect x="320" y="42" width="180" height="58" rx="12" stroke="#8EB1FF" fill="#0A1E45"/>
+  <rect x="570" y="42" width="180" height="58" rx="12" stroke="#A4C0FF" fill="#0A1E45"/>
+  <rect x="820" y="42" width="180" height="58" rx="12" stroke="#BCD0FF" fill="#0A1E45"/>
 
-  <rect x="70" y="118" width="180" height="58" rx="12" stroke="#00C9FF" fill="#041825"/>
-  <rect x="320" y="118" width="180" height="58" rx="12" stroke="#00D8E8" fill="#041825"/>
-  <rect x="570" y="118" width="180" height="58" rx="12" stroke="#2EE7C3" fill="#041825"/>
-  <rect x="820" y="118" width="180" height="58" rx="12" stroke="#92FE9D" fill="#041825"/>
+  <rect x="70" y="118" width="180" height="58" rx="12" stroke="#7AA2FF" fill="#0A1E45"/>
+  <rect x="320" y="118" width="180" height="58" rx="12" stroke="#8EB1FF" fill="#0A1E45"/>
+  <rect x="570" y="118" width="180" height="58" rx="12" stroke="#A4C0FF" fill="#0A1E45"/>
+  <rect x="820" y="118" width="180" height="58" rx="12" stroke="#BCD0FF" fill="#0A1E45"/>
 
   <line x1="250" y1="72" x2="320" y2="72" stroke="url(#line)" stroke-width="2"/>
   <line x1="500" y1="72" x2="570" y2="72" stroke="url(#line)" stroke-width="2"/>
@@ -33,27 +33,27 @@
   <line x1="500" y1="148" x2="570" y2="148" stroke="url(#line)" stroke-width="2"/>
   <line x1="750" y1="148" x2="820" y2="148" stroke="url(#line)" stroke-width="2"/>
 
-  <circle r="5" fill="#00C9FF">
+  <circle r="5" fill="#9DB8FF">
     <animateMotion dur="4s" repeatCount="indefinite">
       <mpath xlink:href="#lane1"/>
     </animateMotion>
   </circle>
 
-  <circle r="5" fill="#92FE9D">
+  <circle r="5" fill="#CFDCFF">
     <animateMotion dur="5s" repeatCount="indefinite">
       <mpath xlink:href="#lane2"/>
     </animateMotion>
   </circle>
 
-  <text x="112" y="77" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">TRIGGER</text>
-  <text x="362" y="77" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">QUEUE</text>
-  <text x="610" y="77" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">WORKER</text>
-  <text x="865" y="77" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">REPORT</text>
+  <text x="114" y="77" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">PLAN</text>
+  <text x="365" y="77" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">BUILD</text>
+  <text x="614" y="77" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">TEST</text>
+  <text x="865" y="77" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">DEPLOY</text>
 
-  <text x="108" y="153" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">CHECK</text>
-  <text x="350" y="153" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">BACKUP</text>
-  <text x="602" y="153" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">CLEANUP</text>
-  <text x="866" y="153" fill="#C5F6FF" font-family="Consolas, monospace" font-size="15">NOTIFY</text>
+  <text x="108" y="153" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">CODE</text>
+  <text x="352" y="153" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">REVIEW</text>
+  <text x="595" y="153" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">RELEASE</text>
+  <text x="866" y="153" fill="#E7EEFF" font-family="Consolas, monospace" font-size="15">TRACK</text>
 
-  <text x="36" y="26" fill="#8FE8FF" font-family="Consolas, monospace" font-size="19">AUTOMATION FLOW MAP</text>
+  <text x="36" y="26" fill="#DCE7FF" font-family="Consolas, monospace" font-size="19">PROJECT FLOW MAP</text>
 </svg>
