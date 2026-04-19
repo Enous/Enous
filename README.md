@@ -37,19 +37,23 @@
 
 ### 📂 Öne Çıkan Projem
 
-<div align="center">
-  <a href="https://github.com/Enous/Enpai-Analiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enous&repo=Enpai-Analiz&title_color=38BDF8&text_color=94A3B8&bg_color=040B1A&border_color=1D4ED8&icon_color=38BDF8&border_radius=10" alt="Enpai-Analiz Repo" width="100%" />
-  </a>
-</div>
-
-<blockquote>
-  <b>Enpai Dev</b>, masaüstündeki veya indirilenler klasöründeki dağınık dosyaları saniyeler içinde toparlayan kendi yaptığım bir dosya düzenleyici. Node.js ve Electron.js kullanarak geliştirdim.
-  <br/><br/>
-  ✅ Dosyaları türüne göre (kod, medya, oyun vb.) otomatik klasörler.<br/>
-  ✅ Seçtiğiniz hedefe taşıma veya kopyalama yapabilir.<br/>
-  ✅ Binlerce dosyayı aynı anda donmadan işleyebilir.
-</blockquote>
+<table width="600" align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Enous/Enpai-Analiz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enous&repo=Enpai-Analiz&title_color=38BDF8&text_color=94A3B8&bg_color=040B1A&border_color=1D4ED8&icon_color=38BDF8&border_radius=10" alt="Enpai-Analiz Repo" width="100%" />
+      </a>
+      <br/>
+      <blockquote align="left">
+        <b>Enpai Dev</b>, masaüstündeki veya indirilenler klasöründeki dağınık dosyaları saniyeler içinde toparlayan kendi yaptığım bir dosya düzenleyici. Node.js ve Electron.js kullanarak geliştirdim.
+        <br/><br/>
+        ✅ Dosyaları türüne göre (kod, medya, oyun vb.) otomatik klasörler.<br/>
+        ✅ Seçtiğiniz hedefe taşıma veya kopyalama yapabilir.<br/>
+        ✅ Binlerce dosyayı aynı anda donmadan işleyebilir.
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
