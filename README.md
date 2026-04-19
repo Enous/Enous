@@ -57,5 +57,5 @@ Bilgisayarınızdaki dosya karmaşasını saniyeler içinde çözen akıllı org
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Enous/Enous/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Yılan Animasyonu" />
+  <p>Her gün daha iyisi için kodluyorum.</p>
 </div>
