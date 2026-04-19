@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.png" width="800" alt="Ensar" />
+  <img src="assets/profile-banner.png" width="600" alt="Enous" />
 </div>
 
 <div align="center">
