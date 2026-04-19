@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.png" width="600" alt="Enous" />
+  <video src="assets/banner.mp4" width="600" muted autoplay loop></video>
 </div>
 
 <div align="center">
