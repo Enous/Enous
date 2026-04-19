@@ -35,24 +35,21 @@
 
 <br/>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="40%">
-      <a href="https://github.com/Enous/Enpai-Analiz">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=040B1A&height=120&section=header&text=ENPAI%20DEV&fontSize=35&animation=fadeIn&fontColor=38BDF8&desc=Kendi%20Yazdığım%20Dosya%20Organizatörü&descAlignY=70&descAlign=60" width="100%" />
-      </a>
-    </td>
-    <td valign="middle" width="60%">
-      <b>Enpai Dev</b>, masaüstündeki veya indirilenler klasöründeki dağınık dosyaları saniyeler içinde toparlayan kendi yaptığım bir düzenleyici.
-      <br/><br/>
-      ✅ Dosyaları türüne göre (kod, medya, oyun vb.) klasörlüyor.<br/>
-      ✅ Taşıma veya kopyalama yapabiliyor.<br/>
-      ✅ Electron.js ile yaptığım için gayet akıcı çalışıyor.<br/>
-      <br/>
-      <a href="https://github.com/Enous/Enpai-Analiz"><b>📦 Projeyi Buradan İnceleyebilirsin ➔</b></a>
-    </td>
-  </tr>
-</table>
+### 📂 Öne Çıkan Projem
+
+<div align="center">
+  <a href="https://github.com/Enous/Enpai-Analiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enous&repo=Enpai-Analiz&title_color=38BDF8&text_color=94A3B8&bg_color=040B1A&border_color=1D4ED8&icon_color=38BDF8&border_radius=10" alt="Enpai-Analiz Repo" />
+  </a>
+</div>
+
+<blockquote>
+  <b>Enpai Dev</b>, masaüstündeki veya indirilenler klasöründeki dağınık dosyaları saniyeler içinde toparlayan kendi yaptığım bir dosya düzenleyici. Node.js ve Electron.js kullanarak geliştirdim.
+  <br/><br/>
+  ✅ Dosyaları türüne göre (kod, medya, oyun vb.) otomatik klasörler.<br/>
+  ✅ Seçtiğiniz hedefe taşıma veya kopyalama yapabilir.<br/>
+  ✅ Binlerce dosyayı aynı anda donmadan işleyebilir.
+</blockquote>
 
 <br/>
 
