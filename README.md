@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="banner.png" width="800" alt="Banner" />
+  <img src="banner.png" width="100%" alt="Banner" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selam%2C+ben+Ensar.;Yaz%C4%B1l%C4%B1m+%C3%96%C4%9Frencisi;Siber+G%C3%BCvenli%C4%9Fe+ilgiliyim." alt="Yazı" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Selam%2C+ben+Ensar.;Yaz%C4%B1l%C4%B1m+%C3%96%C4%9Frencisi;Siber+G%C3%BCvenli%C4%9Fe+ilgiliyim." alt="Yazı" />
 </div>
 
 <br/>
