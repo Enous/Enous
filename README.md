@@ -1,15 +1,11 @@
 <div align="center">
-  <video src="assets/banner.mp4" width="800" muted autoplay loop></video>
+  <img src="banner.png" width="800" alt="Banner" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selam%2C+ben+Ensar.;Yaz%C4%B1l%C4%B1m+%C3%96%C4%9Frencisi+%7C+Cyber+Sec;Enpai+Dev+%C3%BCzerinde+%C3%A7al%C4%B1%C5%9f%C4%B1yorum." alt="Yazı" />
-</div>
-
-<div align="center">
-  <i>Vibe coding ile siber dünyanın derinliklerini keşfeden bir geliştirici.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selam%2C+ben+Ensar.;Yaz%C4%B1l%C4%B1m+%C3%96%C4%9Frencisi;Siber+G%C3%BCvenli%C4%9Fe+ilgiliyim." alt="Yazı" />
 </div>
 
 <br/>
@@ -17,19 +13,19 @@
 <table width="100%" align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h3>👨‍💻 Hakkımda</h3>
+      <h3>👨‍💻 Ben Kimim?</h3>
       <blockquote>
-        Basit, hızlı ve işlevsel mimariler kurmayı seviyorum. Geceleri <b>"Night Blue"</b> estetiğiyle kod yazmak, gün içinde ise <b>siber güvenlik</b> açıklarını incelemek en büyük tutkum.
+        Selam, ben Ensar. Yazılım öğreniyorum ve genellikle vibe coding tarzında takılıyorum. Kendi halimde kod yazıp, günlük işlerimi kolaylaştıracak ufak araçlar yapmayı seviyorum.
         <br/><br/>
-        <b>Hedefim:</b> Sadece çalışan değil, aynı zamanda iz bırakan <i>premium</i> projeler geliştirmek.
+        Şu sıralar siber güvenlik alanına da merak sardım, o tarafta da kendimi geliştirmeye çalışıyorum.
       </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ İlgi Alanları</h3>
+      <h3>⚡ Nelerle Uğraşıyorum?</h3>
       <ul>
-        <li>🛡️ <b>Siber Güvenlik:</b> Sızma testleri, zararlı yazılım analizi ve ağ güvenliği.</li>
-        <li>🛠️ <b>Araç Geliştirme:</b> Python ve Electron.js tabanlı masaüstü çözümleri.</li>
-        <li>🌌 <b>Tasarım & UI/UX:</b> Glassmorphism ve neon konseptler.</li>
+        <li>🛡️ <b>Siber Güvenlik:</b> Temel sızma testleri ve analizler.</li>
+        <li>🛠️ <b>Kodlama:</b> Python ve Electron.js kullanarak masaüstü uygulamaları.</li>
+        <li>🌌 <b>Tasarım:</b> Koyu renkli, basit ve hoş görünen arayüzler.</li>
       </ul>
     </td>
   </tr>
@@ -41,17 +37,17 @@
   <tr>
     <td align="center" width="40%">
       <a href="https://github.com/Enous/Enpai-Analiz">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=040B1A&height=120&section=header&text=ENPAI%20DEV&fontSize=40&animation=fadeIn&fontColor=38BDF8&desc=Akıllı%20Dosya%20Organizatörü&descAlignY=70&descAlign=60" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=040B1A&height=120&section=header&text=ENPAI%20DEV&fontSize=35&animation=fadeIn&fontColor=38BDF8&desc=Kendi%20Yazdığım%20Dosya%20Organizatörü&descAlignY=70&descAlign=60" width="100%" />
       </a>
     </td>
     <td valign="middle" width="60%">
-      <b>Enpai Dev Dosya Analizi</b> bilgisayarınızdaki dijital karmaşayı saniyeler içinde çözen akıllı bir organizatördür.
+      <b>Enpai Dev</b>, masaüstündeki veya indirilenler klasöründeki dağınık dosyaları saniyeler içinde toparlayan kendi yaptığım bir düzenleyici.
       <br/><br/>
-      ✅ Saniyeler içinde binlerce dosyayı analiz eder.<br/>
-      ✅ Kategori bazlı (Kodlama, Oyun, Medya vb.) ayrıştırma yapar.<br/>
-      ✅ Electron mimarisi sayesinde ultra hızlı çalışır.<br/>
+      ✅ Dosyaları türüne göre (kod, medya, oyun vb.) klasörlüyor.<br/>
+      ✅ Taşıma veya kopyalama yapabiliyor.<br/>
+      ✅ Electron.js ile yaptığım için gayet akıcı çalışıyor.<br/>
       <br/>
-      <a href="https://github.com/Enous/Enpai-Analiz"><b>📦 Projeyi İncele ve Kur ➔</b></a>
+      <a href="https://github.com/Enous/Enpai-Analiz"><b>📦 Projeyi Buradan İnceleyebilirsin ➔</b></a>
     </td>
   </tr>
 </table>
@@ -76,10 +72,10 @@
 
 <br/>
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Kullandığım Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,electron,html,css,git,github,vscode,figma,kali,linux" alt="Teknoloji ikonları" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,electron,html,css,git,github,vscode,kali,linux" alt="Teknoloji ikonları" />
 </div>
 
 <br/>
