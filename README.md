@@ -23,9 +23,11 @@
     <td width="50%" valign="top">
       <h3>⚡ Nelerle Uğraşıyorum?</h3>
       <ul>
-        <li>🛡️ <b>Siber Güvenlik:</b> Temel sızma testleri ve analizler.</li>
-        <li>🛠️ <b>Kodlama:</b> Python ve Electron.js kullanarak masaüstü uygulamaları.</li>
-        <li>🌌 <b>Tasarım:</b> Koyu renkli, basit ve hoş görünen arayüzler.</li>
+        <li>🌐 <b>Web Geliştirme:</b> HTML, CSS, JavaScript ve özellikle <b>React</b> ile dinamik arayüzler.</li>
+        <li>🖥️ <b>Masaüstü:</b> <b>Python (PyQt6)</b> ve <b>Electron.js</b> ile cross-platform araçlar.</li>
+        <li>⚙️ <b>Backend & Scripting:</b> PHP ve <b>Bun (TypeScript)</b> ile modern arka uç süreçleri.</li>
+        <li>🗄️ <b>Veritabanı & API:</b> Veritabanı yönetimi ve dış API entegrasyonları.</li>
+        <li>🛡️ <b>Siber Güvenlik:</b> Temel sızma testleri ve analizlere olan ilgim devam ediyor.</li>
       </ul>
     </td>
   </tr>
@@ -75,7 +77,7 @@
 ### 🛠️ Kullandığım Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,electron,html,css,git,github,vscode,kali,linux" alt="Teknoloji ikonları" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,python,electron,bun,mysql,git,github,vscode,kali,linux" alt="Teknoloji ikonları" />
 </div>
 
 <br/>
