@@ -15,7 +15,7 @@
     <td width="50%" valign="top">
       <h3>👨‍💻 Ben Kimim?</h3>
       <blockquote>
-        Selam, ben Ensar. Yazılım öğreniyorum ve genellikle vibe coding tarzında takılıyorum. Kendi halimde kod yazıp, günlük işlerimi kolaylaştıracak ufak araçlar yapmayı seviyorum.
+        Selam, ben Ensar. Vibe coding tarzında takılan ve kendi çapında bir şeyler üretmeyi seven bir lise öğrencisiyim. Kendi halimde kod yazıp, günlük işlerimi kolaylaştıracak ufak araçlar yapmaktan keyif alıyorum.
         <br/><br/>
         Şu sıralar siber güvenlik alanına da merak sardım, o tarafta da kendimi geliştirmeye çalışıyorum.
       </blockquote>
