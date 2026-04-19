@@ -80,5 +80,11 @@
 <br/>
 
 <div align="center">
+  <video src="kucukvideo.mp4" width="300" muted autoplay loop></video>
+</div>
+
+<br/>
+
+<div align="center">
   <i>🌌 stay curious, keep coding.</i>
 </div>
