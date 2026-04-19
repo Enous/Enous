@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selam%2C+ben+Ensar.;Enpai Dev+%C3%BCzerinde+%C3%A7al%C4%B1%C5%9f%C4%B1yorum." alt="Yazı" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selam%2C+ben+Ensar.;Enpai+Dev+%C3%BCzerinde+%C3%A7al%C4%B1%C5%9f%C4%B1yorum." alt="Yazı" />
 </div>
 
 ---
@@ -25,7 +25,7 @@ Bilgisayarınızdaki dosya karmaşasını saniyeler içinde çözen akıllı org
 - 🛠️ **Kolay Kullanım:** Tek tıkla analiz ve düzenleme imkanı.
 
 <div align="center">
-  <a href="https://github.com/Enous/Enpai Dev-Analiz">
+  <a href="https://github.com/Enous/Enpai-Analiz">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=040B1A&secondaryColor=1D4ED8&height=80&section=header&text=PROJEYİ%20İNCELE&fontSize=30&animation=fadeIn&fontColor=38BDF8" width="100%" alt="Projeyi İncele" />
   </a>
 </div>
