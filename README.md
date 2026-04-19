@@ -22,17 +22,9 @@ Ben **Ensar**, **Enpai**'nin kurucusu ve tutkulu bir yazılım geliştiriciyim. 
 
 ---
 
-### 🚀 Öne Çıkan Projeler
-
 <div align="center">
   <a href="https://github.com/Enous/Enpai-Analiz">
     <img src="https://img.shields.io/badge/AÇIK_KAYNAK_ANALİZ-Ensar_x_Enpai-1D4ED8?style=for-the-badge&logo=electron&logoColor=38BDF8" width="100%" alt="Açık Kaynak Analiz Uygulaması" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Enous/pulsepilot-automation-studio">
-    <img src="https://img.shields.io/badge/PULSEPILOT-Automation_Studio-040B1A?style=for-the-badge&logo=python&logoColor=38BDF8" width="100%" alt="PulsePilot Automation Studio" />
   </a>
 </div>
 
