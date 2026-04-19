@@ -19,8 +19,12 @@ Ben **Ensar**. **Enpai** markası altında basit ve işlevsel yazılımlar geli�
 
 <div align="center">
   <a href="https://github.com/Enous/Enpai-Analiz">
-    <img src="https://img.shields.io/badge/AÇIK_KAYNAK_ANALİZ-Ensar_x_Enpai-1D4ED8?style=for-the-badge&logo=electron&logoColor=38BDF8" width="100%" alt="Açık Kaynak Analiz Uygulaması" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=040B1A&secondaryColor=1D4ED8&height=120&section=header&text=AÇIK%20KAYNAK%20ANALİZ&fontSize=40&animation=fadeIn&fontColor=38BDF8" width="100%" alt="Açık Kaynak Analiz Uygulaması" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Enpai+ailesinin+yeni+üyesi+yayında.;Dosya+organizasyonunda+yeni+nesil+deneyim." alt="Proje açıklaması" />
 </div>
 
 ---
