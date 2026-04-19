@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/profile-banner.png" width="600" alt="Ensar" />
+  <img src="assets/profile-banner.png" width="800" alt="Ensar" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selam%2C+ben+Ensar.;Enpai+%C3%BCzerinde+%C3%A7al%C4%B1%C5%9f%C4%B1yorum.;Sade+ve+h%C4%B1zl%C4%B1+projeleri+severim." alt="Yazı animasyonu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Selam%2C+ben+Ensar.;Enpai+%C3%BCzerinde+%C3%A7al%C4%B1%C5%9f%C4%B1yorum." alt="Yazı" />
 </div>
 
 ---
