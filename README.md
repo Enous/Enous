@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A1633,50:102A5E,100:1D3F8F&text=Enous&fontColor=EAF2FF&fontSize=74&animation=fadeIn&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%7C%20%C3%9Creten%20ve%20Geli%C5%9Ftiren&descAlignY=58" width="100%" />
 </div>
 
@@ -33,17 +33,25 @@
   <img src="assets/idea-to-prod.svg" width="100%" alt="Fikirden ürüne akış" />
 </div>
 
-## Öne Çıkan Proje
+## Öne Çıkan Projeler
+
 <div align="center">
   <a href="https://github.com/Enous/pulsepilot-automation-studio">
     <img src="assets/featured-project-card.svg" width="100%" alt="PulsePilot Automation Studio kartı" />
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Enous/Enpai-Analiz">
+    <img src="https://img.shields.io/badge/ENPAI_ANALIZ-Smart_File_Organizer-7F00FF?style=for-the-badge&logo=python&logoColor=white" width="100%" alt="Enpai Analiz" />
+  </a>
+</div>
+
 ```bash
-git clone https://github.com/Enous/pulsepilot-automation-studio.git
-cd pulsepilot-automation-studio
-python main.py --config configs/sample.plan.json --once
+# Enpai Analiz - Akıllı Dosya Organizatörü
+git clone https://github.com/Enous/Enpai-Analiz.git
+cd Enpai-Analiz
+./run.bat
 ```
 
 ## Teknoloji Yığını
