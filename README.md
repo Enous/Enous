@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/Enous/Enpai-Analiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enous&repo=Enpai-Analiz&title_color=38BDF8&text_color=94A3B8&bg_color=040B1A&border_color=1D4ED8&icon_color=38BDF8&border_radius=10" alt="Enpai-Analiz Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enous&repo=Enpai-Analiz&title_color=38BDF8&text_color=94A3B8&bg_color=040B1A&border_color=1D4ED8&icon_color=38BDF8&border_radius=10" alt="Enpai-Analiz Repo" width="100%" />
   </a>
 </div>
 
@@ -80,7 +80,7 @@
 <br/>
 
 <div align="center">
-  <video src="https://github.com/Enous/Enous/raw/main/kucukvideo.mp4" width="300" muted="muted" autoplay="autoplay" loop="loop" playsinline></video>
+  <img src="kucukvideo.gif" width="300" alt="Video animasyon" />
 </div>
 
 <br/>
