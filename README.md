@@ -80,7 +80,7 @@
 <br/>
 
 <div align="center">
-  <video src="kucukvideo.mp4" width="300" muted autoplay loop></video>
+  <video src="https://github.com/Enous/Enous/raw/main/kucukvideo.mp4" width="300" muted="muted" autoplay="autoplay" loop="loop" playsinline></video>
 </div>
 
 <br/>
